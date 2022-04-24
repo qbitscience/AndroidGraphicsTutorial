@@ -6,4 +6,4 @@ www.qbitscience.com
 https://qbitscience.com/android/android_graphics
 
 In this project we have 
-Here we used Paint and Canvas propert to create Beautiful images.
+used Paint and Canvas propert to create Beautiful images.
